@@ -1,0 +1,28 @@
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 1rem;
+    background-color: #1e1e25;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.nav--icon {
+    height: 50px;
+
+}
+
+.nav--title {
+    color: #81d2ea;
+    font-size: 2rem;
+}
+
+h4 {
+    color: #fff;
+}

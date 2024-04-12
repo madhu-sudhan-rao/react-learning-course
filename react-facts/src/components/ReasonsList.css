@@ -1,0 +1,8 @@
+.main-body{
+    padding: 0px 1rem;
+}
+
+li::marker {
+    color: #81d2ea;
+    font-size: 1.4rem;
+}
